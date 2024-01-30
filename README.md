@@ -8,6 +8,7 @@ This web application empowers users to quickly create or upload their resumes fo
 5. Download functionality to save resumes on user’s local computer.
 
 #Technologies Used
+
 Frontend: HTML, CSS, Bootstrap
 Backend: PHP
 Database: MySQL
