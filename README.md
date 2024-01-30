@@ -8,20 +8,19 @@ This web application empowers users to quickly create or upload their resumes fo
 5. Download functionality to save resumes on user’s local computer.
 
 #Technologies Used
-
-Frontend: HTML, CSS, Bootstrap
-Backend: PHP
-Database: MySQL
+1. Frontend: HTML, CSS, Bootstrap
+2. Backend: PHP
+3. Database: MySQL
 
 #Getting Started
 1. Clone the Repository:
                 git clone https://github.com/sharvari257/ResumeBuilder.git
 2. Set up the database:
-        I. Create a database with a name matching the configuration “config.php”. This file would have the database connection.
-        II. Import the database.sql file(s) to create tables and initial data.
-3. Start the local server:
+   2.1. Create a database with a name matching the configuration “config.php”. This file would have the database connection.
+   2.2 Import the database.sql file(s) to create tables and initial data.
+4. Start the local server:
         Place the project file in web server’s root directory [path to save file to: xampp/htdocs/<project_file>]
-4. Alternatively, use XAMPP to create local server environment.
+5. Alternatively, use XAMPP to create local server environment.
 
 #Usage
 1. Access the application in your web browser (e.g., http://localhost/resume-builder).
